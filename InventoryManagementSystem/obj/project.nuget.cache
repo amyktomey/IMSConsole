@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Y2mizirlbwWtriuwQ4afpSEy3QfhAtQ6g9/jveZdSk+34nQB+d9B9c8NrMoptqgCpMwVYJiGUkOW2l5hZs4hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m0mon\\IMS\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m0mon\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\m0mon\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\m0mon\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
