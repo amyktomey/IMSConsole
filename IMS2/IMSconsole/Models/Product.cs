@@ -5,7 +5,7 @@ namespace IMSConsole;
 
 public class Product
 {
-	public int ItemID { get; set; }
+	public int ProductID { get; set; }
 	public string? Name { get; set; }
 
 	[Column(TypeName = "string(20)")]
