@@ -9,6 +9,7 @@ public class Product
 	public string? Name { get; set; }
 
 	[Column(TypeName = "string(20)")]
+    public string ProductType { get; set; }
 	public decimal Price { get; set; }
 	public required string Description { get; set; }
 }

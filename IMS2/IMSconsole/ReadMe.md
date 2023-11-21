@@ -1,10 +1,5 @@
-According to the pplan, this program will assist with managing inventory durinf sales events and trade shows.
+According to the plan, this program will assist with managing inventory during sales events and trade shows.
 
-This is a rebuild after files were damaged beyond repair.
-
-error message when gettting nuget packages... entity frtamework specifically.
-
-will continue updating as needed here.
 
 
 Required:
