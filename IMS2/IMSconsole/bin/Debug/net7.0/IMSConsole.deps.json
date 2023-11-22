@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "IMSConsole/1.0.0": {
+      "IMSconsole/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.14",
           "Microsoft.EntityFrameworkCore.Design": "7.0.14",
@@ -15,7 +15,7 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "IMSConsole.dll": {}
+          "IMSconsole.dll": {}
         }
       },
       "Humanizer.Core/2.14.1": {
@@ -411,7 +411,7 @@
     }
   },
   "libraries": {
-    "IMSConsole/1.0.0": {
+    "IMSconsole/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

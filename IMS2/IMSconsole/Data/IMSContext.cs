@@ -16,11 +16,11 @@ public class IMSContext : DbContext
     {
         var folder = Environment.SpecialFolder.Desktop;
         var path = Environment.GetFolderPath(folder);
-        DbPath = Path.Join(path, "IMS.db");
+        DbPath = Path.Join(path, "IMSConsole.db");
     }
 
     protected override void OnConfiguring(DbContextOptionsBuilder options)
     {
-        options.UseSqlite($"Data Source={DbPath}");
+        options.UseSqlite($"Data Source=IMSConsole.db");
     }
 }
