@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ErBy6uZmQXd7W4Z59401XgT6WFYet8cVLhujoooP6SGMMgzC+A4Xkw4hms1ZgTHSRcHGAgUHfmdSP+kxPyCJlA==",
+  "dgSpecHash": "Z83x5jMIJuM7LQ99igUs3jqxVBdIiccU5IFSEQacVi8c8SQU+HXICkDbjHpRIAYPXe1PRVNOnZoLOBkZXqllCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\m0mon\\IMS\\IMS2\\IMSconsole\\IMSConsole.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,8 @@
     "C:\\Users\\m0mon\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\m0mon\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\m0mon\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\m0mon\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\m0mon\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\m0mon\\.nuget\\packages\\xamarin.forms\\5.0.0.2612\\xamarin.forms.5.0.0.2612.nupkg.sha512"
   ],
   "logs": []
 }

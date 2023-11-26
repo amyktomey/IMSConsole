@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMSConsole", "IMSConsole.csproj", "{6905DF7D-3767-4B66-839F-0D7B0DF82855}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryMaui", "..\InventoryMaui\InventoryMaui.csproj", "{CE32477F-A219-47FD-89EF-C09FC908EDC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{6905DF7D-3767-4B66-839F-0D7B0DF82855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6905DF7D-3767-4B66-839F-0D7B0DF82855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6905DF7D-3767-4B66-839F-0D7B0DF82855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE32477F-A219-47FD-89EF-C09FC908EDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE32477F-A219-47FD-89EF-C09FC908EDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE32477F-A219-47FD-89EF-C09FC908EDC3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CE32477F-A219-47FD-89EF-C09FC908EDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE32477F-A219-47FD-89EF-C09FC908EDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE32477F-A219-47FD-89EF-C09FC908EDC3}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

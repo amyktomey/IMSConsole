@@ -1,0 +1,90 @@
+{
+  "potions": [
+    {
+      "Name": "Fairy Lights",
+      "PruductType": "potion",
+      "Description": "Glow in the dark accents in a blue potion, magical affects appear when shaken under a black light. It's been said to attract fairies when the moon is new.",
+      "Price": 10.00,
+      "InStock": 6
+    },
+    {
+      "Name": "Midnight Tempest",
+      "PruductType": "potioni",
+      "Description": "Grey/blue base with a bolt of lightning, shimmering with the power of the storm.",
+      "Price": "12.00.",
+      "InStock": 8
+    },
+    {
+      "Name": "Lover's Bane'",
+      "PruductType": "potion",
+      "Description": "Blood red & black potion with a gold spark for creating passion!",
+      "Price": 12.00,
+      "InStock": 4
+    },
+    {
+      "Name": "Death's Due",
+      "PruductType": "potion.",
+      "Description": "Green potion, color changing with hints of black & silver. Stay close or the death will be yours.",
+      "Price": 10.00,
+      "InStock": 7
+    },
+    {
+      "Name": "Florrie's Fairy Wine'",
+      "PruductType": "potion",
+      "Description": "Delightful for fairies and magical kin, but for any human, after a thimble full, they will never remember what what happened that night.",
+      "Price": 18.00,
+      "InStock": 3
+    },
+    {
+      "Name": "Mermaid's Breath'",
+      "PruductType": "pembroke-welsh-corgi",
+      "Description": "Turquoise & purple potion for underwater breathing!",
+      "Price": 10.00,
+      "InStock": 4
+    },
+    {
+      "Name": "Minis'",
+      "PruductType": "potioni",
+      "Description": "Miniature potions in a wide variety of colors",
+      "Price": 3.00,
+      "InStock": 34
+    }
+  ],
+  "Feats": [
+    {
+      "Name": "Banshee",
+      "PruductType": "feat charm",
+      "Description": "Homebrew: +2 on Intimidation and advantage against Deception",
+      "Price": 10.00,
+      "InStock": 2
+    },
+    {
+      "Name": "Leprechan",
+      "PruductType": "Feat charm",
+      "Description": "Homebrew:  +2 on Sleight of Hand, once per long rest - reroll on dex saving rolls under ten.",
+      "Price": 10.00,
+      "InStock": 3
+    },
+    {
+      "Name": "Ogre",
+      "PruductType": "feat charm",
+      "Description": "Homebrew:  +2 on Athletics and advantage on Strength saving throw",
+      "Price": 10.00,
+      "InStock": 4
+    },
+    {
+      "Name": "Qilin",
+      "PruductType": "feat charm",
+      "Description": "Homebrew: +2 to AC, if dowmed HP drops to 1, not 0.",
+      "Price": 10.00,
+      "InStock": 2
+    },
+    {
+      "Name": "Unicorn",
+      "PruductType": "feat charm",
+      "Description": "Homebrew: +2 to Persuasion, advantage against being charmed.",
+      "Price": 10.00,
+      "InStock": 1
+    }
+  ]
+}
